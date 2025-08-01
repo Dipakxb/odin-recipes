@@ -14,9 +14,9 @@ with Images, And Proper Semantic HTML.
 
 **HOMEPAGE**
 
-![Home Page](image.png)
+![Home Page](./images/HomePage.png)
 
 
 **RECIPES PAGES**
 
-![Recipe Page](image-1.png)
+![Recipe Page](./images/RecipesPage.png)
